@@ -1,0 +1,17 @@
+.gradient-custom-2 {
+    background: #fccb90;
+    background: -webkit-linear-gradient(to right, #8c8b8a, #535151, #464546, #151515);
+    background: linear-gradient(to right, #8c8b8a, #535151, #464546, #151515);
+}
+
+#butn:hover{
+    background: linear-gradient(to right, #a1a0a0, #7a7373, #817881, #605858);
+}
+
+#butn{
+    border-color: white;
+}
+
+#gender{
+    color: gray;
+}
